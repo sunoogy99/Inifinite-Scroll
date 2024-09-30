@@ -4,7 +4,7 @@ npm run dev
 ```
 
 ## 결과 영상
-
+![무한스크롤 시연](https://github.com/user-attachments/assets/050b714e-a29a-4777-b266-44e36bf5861a)
 
 ## 챌린지 과제 내용
 1. 하나의 SinglePage에 Intersection Observer를 이용해 무한스크롤을 구현하세요.
